@@ -1,0 +1,12 @@
+table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+div.wrapper {
+    width: 500px;
+    height: 500px;
+    overflow: auto;
+    position: absolute;
+  }
